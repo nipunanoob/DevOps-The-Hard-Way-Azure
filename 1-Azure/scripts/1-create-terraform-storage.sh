@@ -1,8 +1,8 @@
 #!/bin/sh
 
 # Configuration
-RESOURCE_GROUP_NAME="devopshardway-rg"
-STORAGE_ACCOUNT_NAME="devopshardwaysa"
+RESOURCE_GROUP_NAME="TerraformRG"
+STORAGE_ACCOUNT_NAME="terraformstorm"
 LOCATION="uksouth"
 CONTAINER_NAME="tfstate"
 

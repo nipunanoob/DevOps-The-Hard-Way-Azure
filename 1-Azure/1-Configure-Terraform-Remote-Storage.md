@@ -6,9 +6,9 @@ In this lab, you'll create a secure location to store the remote Terraform State
 ## 🛠️ Create Blob Storage for Terraform State File
 
 ### Prerequisites
-- [ ] Azure CLI installed and configured (`az login` executed)
-- [ ] Contributor permissions on your Azure subscription
-- [ ] Basic understanding of Azure Storage concepts
+- [x] Azure CLI installed and configured (`az login` executed)
+- [x] Contributor permissions on your Azure subscription
+- [x] Basic understanding of Azure Storage concepts
 
 ### Steps
 

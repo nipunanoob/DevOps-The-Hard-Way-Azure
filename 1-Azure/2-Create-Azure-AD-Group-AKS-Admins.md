@@ -8,8 +8,8 @@ In this lab, you'll create an Azure AD Group for AKS Admins. These "admins" will
 
 ### Prerequisites
 
-- [ ] Azure CLI installed and configured (`az login` executed)
-- [ ] Sufficient permissions to create Azure AD groups (e.g., Global Administrator or User Administrator role)
+- [x] Azure CLI installed and configured (`az login` executed)
+- [x] Sufficient permissions to create Azure AD groups (e.g., Global Administrator or User Administrator role)
 
 ### Steps
 
